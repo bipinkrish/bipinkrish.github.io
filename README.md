@@ -1,12 +1,11 @@
-### Hi there 👋, I'm Brijesh Krishna ( [site] ) 🇮🇳
+### Hi there 👋, I'm Bipin Krishna 🇮🇳
 
 # Info
 
-- 🌱 I’m currently learning  asm , c, go
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games and coding
-- 😘 favourite language: Python , C , Rust
+- 🌱 I’m currently learning  asm ,python.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to play games and coding.
+- 😘 favourite language: Python , C++.
 
 <br />
 
@@ -39,7 +38,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkrishna)](https://github.com/bipinkrish)
 
-[site]: https://brijeshkrishna.github.io
 [python]: https://python.org
 [vs]: https://vscode.com
 [none]: https://brijeshkrishna.github.io/home
