@@ -17,7 +17,7 @@
 <br/><br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkrishna)](https://github.com/bipinkrish)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish)](https://github.com/bipinkrish)
 
 [python]: https://python.org
 [vs]: https://vscode.com
