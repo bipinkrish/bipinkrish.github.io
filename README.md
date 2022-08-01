@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python.
 
 
-<img align="left" alt="brijeshkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
+<img align="left" alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
 
 <br/>
 <br/>
@@ -21,7 +21,6 @@
 
 [python]: https://python.org
 [vs]: https://vscode.com
-[none]: https://brijeshkrishna.github.io/home
 
 
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
