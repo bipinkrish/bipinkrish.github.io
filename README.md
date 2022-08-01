@@ -22,3 +22,7 @@
 [python]: https://python.org
 [vs]: https://vscode.com
 [none]: https://brijeshkrishna.github.io/home
+
+
+<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{apunkanetwork}/count.svg"/></p> 
