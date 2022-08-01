@@ -4,7 +4,7 @@
 
 - 🌱 I’m comfortable in C, C++ and Python.
 
-<img align="center" alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
+<img align="left" alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
 
 <br/>
 <br/>
