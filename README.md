@@ -6,12 +6,12 @@
 - 🌱 I’m comfortable in C, C++ and Python.
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/DinukaSandeepa)
-- [![GitHub followers](https://img.shields.io/github/followers/DinukaSandeepa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DinukaSandeepa?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/bipinkrish)
+- [![GitHub followers](https://img.shields.io/github/followers/bipinkrish.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bipinkrish?tab=followers)
 
 <p>
-  <a href="https://github.com/DinukaSandeepa/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=DinukaSandeepa&show_icons=true&hide_border=true" />
+  <a href="https://github.com/bipinkrishhandle-path-oz">
+    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&show_icons=true&hide_border=true" />
   </a>
 </p>
 <p align ="right">
@@ -30,23 +30,13 @@
   <br>
 </p>  
 
-<img align="right" alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish)](https://github.com/bipinkrish)
+<img align="right" alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
 
 [python]: https://python.org
 [vs]: https://vscode.com
 
 
-<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<br><p align="centre"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{apunkanetwork}/count.svg"/></p> 
