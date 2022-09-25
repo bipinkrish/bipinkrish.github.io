@@ -11,36 +11,16 @@
     <img width="55%" align="left" alt="bipinkrish's github stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&show_icons=true&hide_border=true" />
   </a>
 </p>
-<p align ="right">
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-  <br>
-</p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinkrish&" alt="DinukaSandeepa" /></p> 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinkrish&" alt="DinukaSandeepa" /></p> 
 
 <br><br><br>
 
-<p>
-  <a href="https://github.com/bipinkrishhandle-path-oz">
-    <img width="55%" align="left" alt="bipinkrish's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish" />
-  </a>
-</p>
+<p> <a href="https://github.com/bipinkrishhandle-path-oz">
+<img width="55%" align="left" alt="bipinkrish's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish" /> </a> </p>
 
 <p align ="right">
-<img alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
-  <br>
-</p>  
+<img alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" /> <br> </p>  
 
 <br><p align="centre"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{apunkanetwork}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/bipinkrish/count.svg"/></p> 
