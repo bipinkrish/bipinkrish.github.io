@@ -1,11 +1,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bipin Krishna 🇮🇳
 <p align="centre"> <a href="https://github.com/bipinkrish"><img src="https://github-profile-trophy.vercel.app/?username=bipinkrish&no-bg=true" alt="bipinkrish" /></a> </p>
 
-# Info
-
+# GITHUB STATS
 - 🌱 I’m comfortable in C, C++ and Python.
-
-# GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/bipinkrish)
 - [![GitHub followers](https://img.shields.io/github/followers/bipinkrish.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bipinkrish?tab=followers)
 
@@ -32,12 +29,14 @@
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish)](https://github.com/bipinkrish)
-<img align="right" alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
-
 [python]: https://python.org
 [vs]: https://vscode.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish)](https://github.com/bipinkrish)
+
+<br><br><br><br><br><br><br><br>
+
+<img align="right" alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
 
 <br><p align="centre"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{apunkanetwork}/count.svg"/></p> 
