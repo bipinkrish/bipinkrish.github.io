@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/bipinkrishhandle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&show_icons=true&hide_border=true" />
+    <img width="55%" align="left" alt="bipinkrish's github stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&show_icons=true&hide_border=true" />
   </a>
 </p>
 <p align ="right">
@@ -27,16 +27,20 @@
   <br>
 </p>  
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinkrish&" alt="DinukaSandeepa" /></p> 
 
-[python]: https://python.org
-[vs]: https://vscode.com
+<br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish)](https://github.com/bipinkrish)
+<p>
+  <a href="https://github.com/bipinkrishhandle-path-oz">
+    <img width="55%" align="left" alt="bipinkrish's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish" />
+  </a>
+</p>
 
-<br><br><br><br><br><br><br><br>
-
-<img align="right" alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
+<p align ="right">
+<img alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
+  <br>
+</p>  
 
 <br><p align="centre"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{apunkanetwork}/count.svg"/></p> 
