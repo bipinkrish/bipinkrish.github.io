@@ -10,10 +10,10 @@
  <a href="https://github.com/bipinkrishhandle-path-oz">
  <img width="100%" align="left" alt="bipinkrish's github stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=truecount_private=true&hide_border=true" /> </a> </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinkrish&" alt="DinukaSandeepa" /></p> 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinkrish&" alt="bipinkrish" /></p> 
 
 <br><br><br>
 
-<p> <a href="https://github.com/bipinkrishhandle-path-oz">
+<p> <a href="https://github.com/bipinkrish/handle-path-oz">
 <img align="left" alt="bipinkrish's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish" /> </a> </p>
 
