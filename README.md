@@ -15,7 +15,7 @@
 <br><br><br>
 
 <p> <a href="https://github.com/bipinkrishhandle-path-oz">
-<img width="55%" align="left" alt="bipinkrish's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish" /> </a> </p>
+<img align="left" alt="bipinkrish's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinkrish" /> </a> </p>
 
 <p align ="right">
 <img alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" /> <br> </p>  
