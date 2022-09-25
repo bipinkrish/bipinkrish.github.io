@@ -8,7 +8,7 @@
 
 <p>
  <a href="https://github.com/bipinkrishhandle-path-oz">
- <img width="50%" align="left" alt="bipinkrish's github stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide_border=true" /> </a> </p>
+ <img width="100%" align="left" alt="bipinkrish's github stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide_border=true" /> </a> </p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinkrish&theme=nightowl&show_icons=true&hide_border=true" alt="bipinkrish" /></p> 
 
