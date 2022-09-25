@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Bipin Krishna 🇮🇳
+<p align="left"> <a href="https://github.com/bipinkrish"><img src="https://github-profile-trophy.vercel.app/?username=bipinkrish&no-bg=true" alt="bipinkrish" /></a> </p>
+
 
 # Info
 
