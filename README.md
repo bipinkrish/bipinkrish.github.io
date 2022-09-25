@@ -7,10 +7,8 @@
 - [![GitHub followers](https://img.shields.io/github/followers/bipinkrish.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bipinkrish?tab=followers)
 
 <p>
-  <a href="https://github.com/bipinkrishhandle-path-oz">
-    <img width="55%" align="left" alt="bipinkrish's github stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&show_icons=true&hide_border=true" />
-  </a>
-</p>
+ <a href="https://github.com/bipinkrishhandle-path-oz">
+ <img width="55%" align="left" alt="bipinkrish's github stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&show_icons=true&hide_border=true" /> </a> </p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinkrish&" alt="DinukaSandeepa" /></p> 
 
@@ -22,5 +20,3 @@
 <p align ="right">
 <img alt="bipinkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bipinkrish&theme=nightowl&show_icons=true&count_private=true&hide=prs" /> <br> </p>  
 
-<br><p align="centre"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/bipinkrish/count.svg"/></p> 
