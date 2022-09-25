@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bipin Krishna 🇮🇳
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bipin Krishna 🇮🇳
 <p align="left"> <a href="https://github.com/bipinkrish"><img src="https://github-profile-trophy.vercel.app/?username=bipinkrish&no-bg=true" alt="bipinkrish" /></a> </p>
 
 
